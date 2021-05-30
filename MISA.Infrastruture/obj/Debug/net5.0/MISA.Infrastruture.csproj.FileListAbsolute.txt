@@ -1,0 +1,15 @@
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\bin\Debug\net5.0\MISA.Core.dll
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\MISA.Infrastruture.csprojAssemblyReference.cache
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\MISA.Infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\MISA.Infrastruture.AssemblyInfoInputs.cache
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\MISA.Infrastruture.AssemblyInfo.cs
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\bin\Debug\net5.0\MISA.Infrastruture.deps.json
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\bin\Debug\net5.0\MISA.Infrastruture.dll
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\bin\Debug\net5.0\ref\MISA.Infrastruture.dll
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\bin\Debug\net5.0\MISA.Infrastruture.pdb
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\bin\Debug\net5.0\MISA.Core.pdb
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\MISA.Infrastruture.csproj.CoreCompileInputs.cache
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\MISA.Infrastruture.csproj.CopyComplete
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\MISA.Infrastruture.dll
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\ref\MISA.Infrastruture.dll
+D:\Fresher\Backend\Architechture\MISA.CukCuk\MISA.Infrastruture\obj\Debug\net5.0\MISA.Infrastruture.pdb
