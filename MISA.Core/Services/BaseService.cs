@@ -17,7 +17,12 @@ namespace MISA.Core.Services
         }
         public int? Insert(MISAEntity entity)
         {
-            return _baseRepository.Insert(entity);
+            var isValid = ValidateObject(entity);
+            if(isValid == true)
+            {
+                return _baseRepository.Insert(entity);
+            }
+            return null;
         }
 
         public int? Update(MISAEntity entity, Guid entityId)
@@ -30,7 +35,7 @@ namespace MISA.Core.Services
             // Xử lý validate chung
             var isValid = true;
             isValid = ValidateCustom(entity);
-            return true;
+            return isValid;
         }
 
         protected virtual bool ValidateCustom(MISAEntity entity)
